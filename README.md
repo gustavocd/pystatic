@@ -1,0 +1,2 @@
+# pystatic
+Statis site generator
