@@ -1,9 +1,9 @@
 SHELL:=/bin/bash
 
-.PHONY:
+.PHONY: run
 run:
 	@./main.sh
 
-.PHONY:
+.PHONY: test
 test:
 	@./test.sh
