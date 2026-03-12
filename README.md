@@ -1,2 +1,3 @@
 # pystatic
-Statis site generator
+
+Static site generator
